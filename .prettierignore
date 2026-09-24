@@ -1,0 +1,36 @@
+
+# Dependencies
+node_modules/
+
+# Next.js / Build outputs
+.next/
+out/
+dist/
+build/
+
+# Vercel
+.vercel/
+
+# Coverage
+coverage/
+
+# Caches
+.cache/
+
+# Generated files
+next-env.d.ts
+*.tsbuildinfo
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Minified files
+*.min.js
+
+# Generated Prisma files (if applicable)
+prisma/generated/
